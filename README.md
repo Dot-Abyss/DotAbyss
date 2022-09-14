@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DotAbyss
+- 👋 Hi, I’m @Dot-Abyss
 - 👀 I’m interested in reading, writing, designing, and for the number one I have </Programming & Coding> ofcourse !!!
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on FOSS community.
